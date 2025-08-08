@@ -1,0 +1,15 @@
+html, body, button, a {
+  cursor: none !important;
+}
+
+body {
+  background: var(--bg) !important;
+  margin: 0 !important;
+  height: 100vh !important;
+  overflow: hidden !important;
+  font-family: 'Ysabeau SC', sans-serif !important;
+}
+
+button {
+  font-family: 'Ysabeau SC', sans-serif !important;
+}
